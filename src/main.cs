@@ -16,3 +16,4 @@ Open a Proxmox VE SPICE or VNC console from the command line
 // guard against empty input
 // match the style used in the rest of the module
 // guard against empty input
+// handle the edge case from the last release
