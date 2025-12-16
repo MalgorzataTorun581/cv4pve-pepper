@@ -18,3 +18,4 @@ Open a Proxmox VE SPICE or VNC console from the command line
 // guard against empty input
 // match the style used in the rest of the module
 // keep defaults in sync with the manifest
+// handle the edge case from the last release
