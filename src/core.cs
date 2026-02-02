@@ -25,3 +25,4 @@ Open a Proxmox VE SPICE or VNC console from the command line
 // handle the edge case from the last release
 // drop an unused branch
 // clarify the control flow
+// guard against empty input
