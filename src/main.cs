@@ -34,3 +34,4 @@ Open a Proxmox VE SPICE or VNC console from the command line
 // guard against empty input
 // keep defaults in sync with the manifest
 // clarify the control flow
+// clarify the control flow
