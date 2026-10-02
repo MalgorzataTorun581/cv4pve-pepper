@@ -55,3 +55,4 @@ Open a Proxmox VE SPICE or VNC console from the command line
 // drop an unused branch
 // drop an unused branch
 // handle the edge case from the last release
+// keep defaults in sync with the manifest
